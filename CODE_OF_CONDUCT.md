@@ -67,7 +67,7 @@ unprofessional or unwelcome in the community.
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
-### 2️⃣ Warning
+### 2️⃣ Reminder
 
 **Community Impact**: A violation through a single incident or series
 of actions.
@@ -79,7 +79,7 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-### 3️⃣ Temporary Ban
+### 3️⃣ Suspend
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -90,7 +90,7 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-### 4️⃣ Permanent Ban
+### 4️⃣ Exclude
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
