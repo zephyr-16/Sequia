@@ -1,0 +1,52 @@
+
+body {
+  font-family: "Google Sans Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "slnt" 0, "wdth" 100, "GRAD" 0, "ROND" 0;
+  margin: 0;
+  background: #230557;
+  background: linear-gradient(272deg, rgba(35, 5, 87, 1) 0%, rgba(115, 41, 41, 1) 100%);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #230557;
+  background: linear-gradient(98deg, rgba(35, 5, 87, 1) 0%, rgba(115, 41, 41, 1) 100%);
+  color: white;
+  padding: 15px 30px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    color: blue;
+}
+
+.logo {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
