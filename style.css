@@ -17,6 +17,8 @@ body {
   background: linear-gradient(98deg, rgba(35, 5, 87, 1) 0%, rgba(115, 41, 41, 1) 100%);
   color: white;
   padding: 15px 30px;
+  border-radius: 50px;
+  margin: 10px 20px;
 }
 
 .nav-links {
