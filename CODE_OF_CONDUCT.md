@@ -79,7 +79,7 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-### 3️⃣ Suspend
+### 3️⃣ Reset
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -90,7 +90,7 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-### 4️⃣ Exclude
+### 4️⃣ Exclusion
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
