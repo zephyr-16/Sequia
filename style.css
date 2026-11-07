@@ -108,11 +108,65 @@ h4 {
   color: white;
 }
 
+
+
+
+
+
 .guess_what {
-  width: auto;
-  height: 100%;
-  padding: 40px 0;
+  padding: 40px clamp(20px, 6vw, 80px);
 }
+
+.guess-content {
+  display: flex;
+  align-items: center;
+  gap: clamp(24px, 5vw, 64px);
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.guess-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.guess-text h2 {
+  margin: 0 0 20px;
+  font-size: clamp(2.5rem, 5vw, 5.625rem);
+  line-height: 1.1;
+}
+
+.guess-text h4 {
+  margin: 0;
+  font-size: clamp(1.125rem, 2vw, 2.5rem);
+  line-height: 1.4;
+}
+
+#sample {
+  display: block;
+  flex: 0 1 42%;
+  width: 30%;
+  max-width: 560px;
+  height: auto;
+  object-fit: contain;
+  color: white;
+}
+
+@media (max-width: 700px) {
+  .guess-content {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  #sample {
+    flex-basis: auto;
+    width: 100%;
+    max-width: 560px;
+    align-self: center;
+  }
+}
+
+
 
 .introduction {
   width: auto;
