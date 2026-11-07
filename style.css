@@ -41,6 +41,18 @@ body {
 
 .nav-links a:hover {
   font-weight: 600;
+  transition: transform 200ms ease;
+}
+
+.nav-links a:hover,
+.nav-links a:focus-visible {
+  transform: scale(1.08);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nav-links a {
+    transition: none;
+  }
 }
 
 h1 {
