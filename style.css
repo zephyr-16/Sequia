@@ -108,11 +108,6 @@ h4 {
   color: white;
 }
 
-
-
-
-
-
 .guess_what {
   padding: 40px clamp(20px, 6vw, 80px);
 }
@@ -166,7 +161,9 @@ h4 {
   }
 }
 
-
+#open_source {
+  color: black;
+}
 
 .introduction {
   width: auto;
