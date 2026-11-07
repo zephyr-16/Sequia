@@ -151,14 +151,3 @@ h4 {
   margin-right: auto;
   max-width: 15%; 
 }
-
-footer {
-  background-color: rgba(225, 225, 225, 0.15);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  box-shadow: 0 6px 60px rgba(0, 0, 0, 0.5);
-  text-align: center;
-  padding: 20px;
-  font-size: 20px;
-  color: white;
-}
