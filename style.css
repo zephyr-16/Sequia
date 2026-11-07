@@ -89,6 +89,18 @@ h3 {
   align-items: center;
   color: white; 
   font-size: 30px;
+  transition: transform 200ms ease;
+}
+
+.join-button:hover,
+.join-button:focus-visible {
+  transform: scale(1.08);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .join-button {
+    transition: none;
+  }
 }
 
 h2 {
